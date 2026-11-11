@@ -10,5 +10,6 @@ This is my second project where I had to use images that are basically transpare
 
 ##Health Trivia
 [Health Trivia](https://maliek15.github.io/Health-Trivia/)
-<img width="1858" height="318" alt="Screenshot 2026-11-11 130903" src="https://github.com/user-attachments/assets/d3ecf1ca-dcca-4eb8-964a-6969bc792bb9" />
+<img width="822" height="266" alt="Screenshot 2026-11-11 131111" src="https://github.com/user-attachments/assets/111d5ef5-2098-4d91-b4ee-98f070d088a7" />
+
 
